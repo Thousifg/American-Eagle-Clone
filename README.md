@@ -1,12 +1,12 @@
 
-![Logo](https://i.ibb.co/QnJ7Bws/default-meta-image-v2-2-1-removebg-preview.png)
+![american eagle](https://user-images.githubusercontent.com/91539305/147804591-73832715-c756-4723-ac9b-c5a7977c7913.png)
 
     
 # American Eagle-Clone
 
 Aeo.in
 ## About American Eagle:
-Udemy is an web application that allows users to puschase all kind of fashion products.
+Udemy is an web application that allows users to purchase all kind of fashion products.
 
 
 ## Demo
@@ -43,13 +43,13 @@ Clone-project with git
 [Demo of project](https://thousifg.github.io/American-Eagle-Clone/public/home.html)
 
 ## Authors
--  [Kalpit Sharma]
+-  Kalpit Sharma
 
-- [Gangavaram Thousif]
+- Gangavaram Thousif
 
-- [Shailander]
+- Shailander
 
-- [Vijay Kumar]
+- Vijay Kumar
 
 
 ## 🛠 Tech Stacks
