@@ -10,7 +10,7 @@ Udemy is an web application that allows users to purchase all kind of fashion pr
 
 
 ## Demo
-![unit2Short gif])
+![unit-2 project demo](https://user-images.githubusercontent.com/91539305/147804744-1e7725d3-f594-4c70-95e4-635dfed43d3b.gif)
 
 
 ## Clone and Run Locally
@@ -20,6 +20,11 @@ Clone-project with git
 ```bash
  git clone https://github.com/Thousifg/American-Eagle-Clone.git
 ```
+
+
+## Deployed link
+live demo [here](https://thousifg.github.io/American-Eagle-Clone/public/home.html)
+
 
 ## Features
 
@@ -34,13 +39,7 @@ Clone-project with git
 
  - [American Eagle](https://www.aeo.in/)
  - [Masai School](https://masaischool.com/)
- 
- 
-<!-- ## Presentation Video :-
-[Demo of project]() -->
 
-## Deployed Demo link :-
-[Demo of project](https://thousifg.github.io/American-Eagle-Clone/public/home.html)
 
 ## Authors
 -  Kalpit Sharma
