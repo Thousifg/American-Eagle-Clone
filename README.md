@@ -23,7 +23,7 @@ Clone-project with git
 
 
 ## Deployed link
-live demo [here](https://thousifg.github.io/American-Eagle-Clone/public/home.html)
+🔹 live demo [here](https://thousifg.github.io/American-Eagle-Clone/public/home.html)
 
 
 ## Features
