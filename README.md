@@ -6,7 +6,7 @@
 
 Aeo.in
 ## About American Eagle:
-Udemy is an web application that allows users to purchase all kind of fashion products.
+American Eagle is an Ecommerce application that allows users to purchase all kinds of fashion products.
 
 
 ## Demo
